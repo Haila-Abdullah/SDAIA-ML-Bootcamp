@@ -1,1 +1,1 @@
-# SDAIA-ML-Projects.
+# SDAIA-ML-Bootcamp
